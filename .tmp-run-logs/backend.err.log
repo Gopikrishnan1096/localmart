@@ -1,0 +1,7 @@
+MongoDB Connection Error: Error: querySrv ETIMEOUT _mongodb._tcp.nearbyshop.0qz52sj.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17) {
+  errno: undefined,
+  code: 'ETIMEOUT',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.nearbyshop.0qz52sj.mongodb.net'
+}

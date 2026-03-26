@@ -1,0 +1,5 @@
+
+> localmart-backend@1.0.0 start
+> node server.js
+
+Using DNS servers from DNS_SERVERS: 10.130.199.37

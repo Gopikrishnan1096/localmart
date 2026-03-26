@@ -1,0 +1,6 @@
+
+> localmart-backend@1.0.0 start
+> node server.js
+
+🚀 LocalMart Server running on port 5000
+📍 Environment: development
